@@ -132,3 +132,6 @@ dmypy.json
 config/*
 data/raw/*
 data/processed/*
+
+# Excel files
+*.xlsx
